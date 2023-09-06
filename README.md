@@ -3,5 +3,5 @@ we are going to see the Olympics analysis using Python. The modern Olympic Games
 The total number of events in the Olympics is 339 in 33 sports. And for every event there are winners. Therefore various data is generated. So, by using Python we will analyze this data.
 ### Modules Used
 * dkbjnadf
- * ali
+    * ali
 
